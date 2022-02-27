@@ -12,3 +12,5 @@ https: https://lernantino.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Jason Kim
+
+#Run Buddy Inc.
