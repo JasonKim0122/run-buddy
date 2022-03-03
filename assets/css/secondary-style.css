@@ -7,8 +7,7 @@
 .page-title {
     color: #fce138;
     display: inline-block;
-    border-bottom: 4px;
-    border: solid;
+    border-bottom: solid 4px;
     border-color: #fce138;
     padding: 0 80px 15px 80px;
     font-weight: normal;
@@ -20,7 +19,7 @@
     color: #024e76;
 }
 .secondary-content h3 {
-    font-size 25px;
+    font-size: 25px;
     margin: 20px 0 20px 0;
 }
 .secondary-content p {
